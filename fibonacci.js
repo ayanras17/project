@@ -1,0 +1,5 @@
+jdhcduhovhfovhfohvo
+{
+str == "abcdef"
+}
+dccnndci
